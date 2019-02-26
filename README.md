@@ -1,4 +1,20 @@
-# ICRA2019
+# One-Shot Learning of Multi-Step Tasks from Observation via Activity Localization in Auxiliary Video (ICRA 2019)
+
+Wonjoon Goo and Scott Niekum, University of Texas at Austin
+
+![alt tag](https://github.com/hiwonjoon/ICRA2019-Activity-Localize/raw/master/assets/Figure.png)
+
+This repository contains codes for the ICRA 2019 paper. If you use this code as part of any published research, please consider referring the following paper.
+
+```
+@inproceedings{Goo2019,
+  title     = {"One-Shot Learning of Multi-Step Tasks from Observation via Activity Localization in Auxiliary Video"},
+  author    = {Wonjoon Goo and Scott Niekum},
+  year      = {2019},
+  booktitle = {2018 IEEE International Conference on Robotics and Automation (ICRA)},
+  tppubtype = {inproceedings}
+}
+```
 
 ## Setup Env
 
