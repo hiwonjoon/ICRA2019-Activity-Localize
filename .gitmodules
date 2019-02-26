@@ -1,0 +1,6 @@
+[submodule "baselines"]
+	path = baselines
+	url = git@github.com:hiwonjoon/baselines.git
+[submodule "roboschool"]
+	path = roboschool
+	url = git@github.com:hiwonjoon/roboschool.git
