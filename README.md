@@ -11,7 +11,7 @@ This repository contains codes for the ICRA 2019 paper. If you use this code as 
   title     = {"One-Shot Learning of Multi-Step Tasks from Observation via Activity Localization in Auxiliary Video"},
   author    = {Wonjoon Goo and Scott Niekum},
   year      = {2019},
-  booktitle = {2018 IEEE International Conference on Robotics and Automation (ICRA)},
+  booktitle = {2019 IEEE International Conference on Robotics and Automation (ICRA)},
   tppubtype = {inproceedings}
 }
 ```
